@@ -1,0 +1,510 @@
+{
+ "summary": {
+  "aggregations": {
+   "citation_summary": {
+    "h-index": {
+     "value": {
+      "all": 14,
+      "published": 14
+     }
+    },
+    "citations": {
+     "buckets": {
+      "all": {
+       "doc_count": 37,
+       "citations_count": {
+        "value": 852.0
+       },
+       "average_citations": {
+        "value": 23.03
+       }
+      },
+      "published": {
+       "doc_count": 25,
+       "citations_count": {
+        "value": 744.0
+       },
+       "average_citations": {
+        "value": 29.76
+       }
+      }
+     }
+    }
+   }
+  }
+ },
+ "records": {
+  "hits": {
+   "hits": [
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Precise QCD Predictions for the Scotogenic Model at Colliders"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2609.26876"
+       }
+      ],
+      "earliest_date": "2026-09-22",
+      "citation_count": 0,
+      "author_count": 3
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Can $\\gamma\\gamma$ collisions rival $e^+e^-$ in probing doubly charged Higgs bosons?"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2608.18023"
+       }
+      ],
+      "earliest_date": "2026-08-25",
+      "citation_count": 0,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Sensitivity to Single Vector-Like Bottom Quark Production at 3 TeV CLIC"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2608.15134"
+       }
+      ],
+      "earliest_date": "2026-08-20",
+      "citation_count": 1,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "VLQBounds: Confronting Vector-Like Quark Models with LHC Searches"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2605.20848"
+       }
+      ],
+      "earliest_date": "2026-05-20",
+      "citation_count": 4,
+      "author_count": 8
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Impact of hidden heavy Higgs channels of VLB-Quarks below 1 TeV in 2HDM"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2604.07161"
+       }
+      ],
+      "earliest_date": "2026-04-08",
+      "citation_count": 2,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Probing Heavy Neutral Higgs Bosons via Single Vector-Like Bottom Quark Production at the HL-LHC"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2603.29076"
+       }
+      ],
+      "earliest_date": "2026-03-30",
+      "citation_count": 2,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Probing Doubly Charged Higgs Bosons with Three-Body Associated Production at Future $e^+e^-$ Colliders"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2602.19866"
+       }
+      ],
+      "earliest_date": "2026-02-22",
+      "citation_count": 3,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Single Production of a Vector-Like Top as a Probe of Charged Higgs Bosons at a Muon-Proton Collider"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2601.07758"
+       }
+      ],
+      "earliest_date": "2026-01-12",
+      "citation_count": 4,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Interpreting the 650 GeV and 95 GeV Higgs anomalies in the next-to-two-Higgs-doublet model"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2510.19605"
+       }
+      ],
+      "earliest_date": "2025-10-22",
+      "citation_count": 5,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Relaxing vector-like top quark mass limits through exotic decays in the type-II 2HDM"
+       }
+      ],
+      "arxiv_eprints": [],
+      "earliest_date": "2025-11-01",
+      "citation_count": 6,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "CEPC Technical Design Report -- Reference Detector"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2510.05260"
+       }
+      ],
+      "earliest_date": "2025-10-06",
+      "citation_count": 73,
+      "author_count": 1100
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Exploring Potential Higgs Resonances at 650 GeV and 95 GeV in the 2HDM Type III"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2505.07811"
+       }
+      ],
+      "earliest_date": "2025-05-12",
+      "citation_count": 13,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Exploring vector-like top quark pair production via charged Higgs decays"
+       }
+      ],
+      "arxiv_eprints": [],
+      "earliest_date": "2025-05-01",
+      "citation_count": 10,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Vector-Like Quarks at the LHC: A Unified Perspective from ATLAS and CMS Exclusion Limits"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2412.01761"
+       }
+      ],
+      "earliest_date": "2024-12-02",
+      "citation_count": 37,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Large Hadron Collider Signatures of Exotic Vector-Like Quarks within the 2HDM Type-II"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2409.20104"
+       }
+      ],
+      "earliest_date": "2024-09-30",
+      "citation_count": 14,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Investigation of Charged Higgs Bosons Production from Vector-Like T Quark Decays at $e\\gamma$ Collider"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2408.15985"
+       }
+      ],
+      "earliest_date": "2024-08-28",
+      "citation_count": 14,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Search for Charged Higgs Bosons through Vector-Like Top Quark Pair Production at the LHC"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2407.01348"
+       }
+      ],
+      "earliest_date": "2024-07-01",
+      "citation_count": 19,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Anatomy of Vector-Like Top-Quark Models in the Alignment Limit of the 2HDM Type-II"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2401.16219"
+       }
+      ],
+      "earliest_date": "2024-01-29",
+      "citation_count": 30,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Superposition of CP-Even and CP-Odd Higgs Resonances: Explaining the 95 GeV Excesses within a 2HDM"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2405.02899"
+       }
+      ],
+      "earliest_date": "2024-05-05",
+      "citation_count": 28,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Anatomy of Vector-Like Bottom-Quark Models in the Alignment Limit of the 2HDM Type-II"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2403.13021"
+       }
+      ],
+      "earliest_date": "2024-03-19",
+      "citation_count": 21,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Explanation of the Hints for a 95 GeV Higgs Boson within a 2-Higgs Doublet Model"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2306.09029"
+       }
+      ],
+      "earliest_date": "2023-06-15",
+      "citation_count": 54,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "The oblique parameters in the 2HDM with Vector-Like Quarks"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2302.07149"
+       }
+      ],
+      "earliest_date": "2023-02-14",
+      "citation_count": 28,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Probing Light Charged Higgs Bosons in the 2HDM Type-II with Vector-Like Quarks"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2211.07259"
+       }
+      ],
+      "earliest_date": "2022-11-14",
+      "citation_count": 28,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Interpreting the W-Mass and Muon (g-2) Anomalies within a 2-Higgs Doublet Model"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2204.11755"
+       }
+      ],
+      "earliest_date": "2022-04-25",
+      "citation_count": 51,
+      "author_count": 6
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "CEPC Technical Design Report: Accelerator"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2312.14363"
+       }
+      ],
+      "earliest_date": "2023-12-22",
+      "citation_count": 294,
+      "author_count": 1300
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Higgs-like particle decays into $\\gamma Z$ and $\\gamma\\gamma$"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2211.12546"
+       }
+      ],
+      "earliest_date": "2022-11-22",
+      "citation_count": 13,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "Explaining the 96 GeV Di-photon Anomaly in a Generic 2HDM Type-III"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2204.07470"
+       }
+      ],
+      "earliest_date": "2022-04-15",
+      "citation_count": 51,
+      "author_count": 5
+     }
+    },
+    {
+     "metadata": {
+      "titles": [
+       {
+        "title": "New charged Higgs boson discovery channel at the LHC"
+       }
+      ],
+      "arxiv_eprints": [
+       {
+        "value": "2112.07502"
+       }
+      ],
+      "earliest_date": "2021-12-14",
+      "citation_count": 8,
+      "author_count": 5
+     }
+    }
+   ]
+  }
+ }
+}
